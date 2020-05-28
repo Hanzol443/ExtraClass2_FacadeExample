@@ -8,6 +8,7 @@ package facade;
 /**
  *
  * @author Hansel
+ * @author Oscar
  */
 public class Face {
     private Printer printer;
